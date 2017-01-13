@@ -51,9 +51,9 @@ counter:
     other: "%d categories in total"
 
   archive_posts:
-    zero: No posts.
-    one: 1 post.
-    other: "%d posts in total."
+    zero: ''
+    one: ''
+    other: ''
 
 state:
   posts: posts
@@ -62,14 +62,14 @@ state:
   categories: categories
 
 cheers:
-  um: Um..
+  um: 'Welcome to my blog center'
   ok: OK
   nice: Nice
   good: Good
   great: Great
   excellent: Excellent
 
-keep_on: Keep on posting.
+keep_on:  ' '
 
 symbol:
   comma: ', '
