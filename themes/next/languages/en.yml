@@ -12,7 +12,7 @@ menu:
   categories: Categories
   schedule: Schedule
   tags: Tags
-  about: About
+  about: About Me
   search: Search
   sitemap: Sitemap
 
@@ -36,8 +36,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
-  theme: Theme
+  powered: ' '
+  theme: ' '
 
 counter:
   tag_cloud:
