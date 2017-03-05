@@ -1,5 +1,5 @@
 ---
-title: Reflection from Cao’s article for week 7 - Environmental or Individual Factor that Matters
+title: Reflection for week 7 - Environmental or Individual Factor that Matters
 date: 2017-02-24 11:11:11
 tags: Education
 ---
