@@ -12,5 +12,5 @@ As far as I'm concerned, these two kinds of motivation are all valid when the se
 
 
 ###### References:
-Gardner, R.C. (1982). Language attitudes and language learning. In E. Bouchard Ryan & H. Giles, Attitudes towards language variation (pp. 132-147). Edward Arnold. 
-(n.d.), (2015). Factors Affecting Student Motivation. Retrieved from http://hubpages.com/education/Selfmotivationforsuccess
+Gardner, R.C. (1982). Language attitudes and language learning. In E. Bouchard Ryan & H. Giles, Attitudes towards language variation (pp. 132-147). 
+Edward Arnold. (n.d.), (2015). Factors Affecting Student Motivation. Retrieved from <br/>http://hubpages.com/education/Selfmotivationforsuccess
