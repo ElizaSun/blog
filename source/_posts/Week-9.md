@@ -1,0 +1,24 @@
+---
+title: Reflection for week 9 - Issues that might appear in multilingual classroom
+date: 2017-03-11 00:07:45
+tags: Education
+---
+
+<center><b> By Eliza (Yan Sun) </b></center>
+
+This week, it’s our group to do the professional presentation. The article we chose is Plurilingualism in TESOL: Promising Controversies. Generally speaking, this paper is a combination of many related studies in this field. In this paper, the author considers that it is promising to use plurilingualism in TESOL classroom. Also, many educators and researchers believe that it is meaningful to construct a plurilingual classroom, albeit there is no accurate evidence showing that plurilingualism can be suitable for all kinds of ESL classroom.<!-- more --> However，in this paper, the ideas and studies that were mentioned also give us lots of implications on the factors that we need to consider when we tend to apply plurilingualism in the classroom, such as language policies， classroom practice and both teachers and students’ linguistic repertoire. There are three main topics being discussed in this paper. The first one is the importance of teachers and students’ linguistic repertoire and classroom practices that shape the plurilingual competence. The second point is teachers’ background knowledge regarding language learning and corresponding ability to meet the needs of plurilingual students. The last one is the educational policies that support plurilingualism （Taylor & Snoddon, 2013）.
+Since we have already talked a lot about language policies in class, I would like to come up with my own ideas about the issues that might appear in a multilingual classroom. 
+I was trained to learn English in a monolingual classroom. All of my classmates are Chinese from elementary school to university. We took fully advantage of our first language to help us learning our second language, albeit it was always an English only classroom. After I got here, Canada, everything changes. We have a multilingual classroom and English is the common language we can use to communicate with each other in class, which might be lower some of Chinese students’ willingness to communicate (WTC). Because some of the Chinese students may think it is much easier to talk in Chinese. Even though they know the answer, they might be afraid of expressing themselves (Cao, 2014). After studying here for half a year, I found some issues that may happen in a multilingual classroom. 
+###### 1. There is no common first language in a multilingual classroom
+This means the students cannot chat with each other with their first language or to define a vocabulary or even clarify a grammatical rule with their mother tongue. All the communication must be in their common language-English. On the contrary, it could also be a great opportunity to practice English while it’s a big challenge. According to my own experience, if we are in a group with students from other countries, the group discussion has to be done in English because it’s the only common language. However, if all the group members share the same language, it will be more efficient for them to understand each other, especially when doing Jigsaw activities.
+###### 2. Students have different culture background
+The fact that the students came from different countries and own different cultures can also be a problem in the classroom. Teachers need to be careful with those controversial questions, such as politics and religion. At the same time, teachers can also use culture as a springboard to introduce class topics like holidays or food vocabulary and to stimulate the class with new perspectives.
+###### 3. Students in multilingual classroom make different mistakes in structure and pronunciation
+My learning experience before witnessed a period when everyone had the same problem in pronunciation and made same mistakes. For example, we all have problem in pronouncing the word “usually”. So, we need to practice together in a monolingual classroom. However, in a multilingual classroom, the same mistake may not be seen from everyone in the class. 
+
+These are the issues I conclude from our learning here in a multilingual classroom. As a ESL teacher in the future, our career can lead us in many directions, including monolingual or multilingual classrooms at home or abroad. Just like the paper mentioned, teachers’ background knowledge need to meet the needs of plurilingual students, that’s why we need to gain extra knowledge, including language items and cultures as well.
+
+
+###### References:
+Cao,Y.Q. (2014). A sociocognitive perspective on second language classroom willingness to communicate. TESOL Quarterly, 48(4), 789-814.
+Taylor, S. K., & Snoddon, K. (2013). Plurilingualism in TESOL: Promising controversies. Tesol Quarterly, 47(3), 439-445.
